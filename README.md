@@ -1,4 +1,4 @@
-# Distance Calculator 🌍
+# Distance Calculator
 
 A Rust-based command line interface (CLI) tool that calculates the shortest distance between cities using their international airport IATA codes and the Haversine formula.
 
