@@ -8,6 +8,23 @@ A Rust-based command line interface (CLI) tool that calculates the shortest dist
 - Easy to use CLI with intuitive commands
 - Works on Windows, macOS, and Linux
 
+### Program Workflow
+
+```mermaid
+graph TD
+    A[Start Program] --> B{Args >= 3?}
+    B -->|No| C[Show Usage & Crash]
+    B -->|Yes| D[Load cities.json]
+    D --> E[Find Origin City]
+    E --> F{Found?}
+    F -->|No| G[Crash: Invalid Origin]
+    F -->|Yes| H[Find Destination City]
+    H --> I{Found?}
+    I -->|No| J[Crash: Invalid Dest]
+    I -->|Yes| K[Calculate Distance]
+    K --> L[Print Result]
+```
+
 ### Sample Output
 ```
 Origin: Bengaluru
