@@ -1,0 +1,4 @@
+echo "* linguist-language=Rust" > .gitattributes
+git add .gitattributes
+git commit -m "Force GitHub to detect Rust"
+git push
