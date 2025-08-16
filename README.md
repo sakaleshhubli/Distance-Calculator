@@ -10,14 +10,9 @@ A Rust-based command line interface (CLI) tool that calculates the shortest dist
 
 ### Sample Output
 ```
-Distance between Delhi (DEL) and Bengaluru (BLR): 1,697.23 km
-
-# With verbose flag:
-From: Indira Gandhi International Airport (DEL) - New Delhi, India
-  Coordinates: 28.5562°N, 77.1000°E
-To: Kempegowda International Airport (BLR) - Bengaluru, India  
-  Coordinates: 13.1979°N, 77.7064°E
-Great circle distance: 1,697.23 km
+Origin: Bengaluru
+Destination: New Delhi
+Distance: 1739.80 kilometers
 ```
 
 ### How It Works
@@ -64,14 +59,4 @@ cargo test
 
 # Run with debug output
 cargo run -- DEL BLR --verbose
-
-# Format code
-cargo fmt
-
-# Run clippy for linting
-cargo clippy
 ```
-
----
-
-⭐ Star this repository if you find it helpful!
