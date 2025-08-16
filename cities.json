@@ -1,0 +1,92 @@
+[
+  {
+    "code": "DEL",
+    "name": "New Delhi",
+    "lat": 28.6139,
+    "lon": 77.2090
+  },
+  {
+    "code": "BOM",
+    "name": "Mumbai",
+    "lat": 19.0760,
+    "lon": 72.8777
+  },
+  {
+    "code": "BLR",
+    "name": "Bengaluru",
+    "lat": 12.9716,
+    "lon": 77.5946
+  },
+  {
+    "code": "MAA",
+    "name": "Chennai",
+    "lat": 13.0827,
+    "lon": 80.2707
+  },
+  {
+    "code": "HYD",
+    "name": "Hyderabad",
+    "lat": 17.3850,
+    "lon": 78.4867
+  },
+  {
+    "code": "CCU",
+    "name": "Kolkata",
+    "lat": 22.5726,
+    "lon": 88.3639
+  },
+  {
+    "code": "PNQ",
+    "name": "Pune",
+    "lat": 18.5204,
+    "lon": 73.8567
+  },
+  {
+    "code": "AMD",
+    "name": "Ahmedabad",
+    "lat": 23.0225,
+    "lon": 72.5714
+  },
+  {
+    "code": "JAI",
+    "name": "Jaipur",
+    "lat": 26.9124,
+    "lon": 75.7873
+  },
+  {
+    "code": "LKO",
+    "name": "Lucknow",
+    "lat": 26.8467,
+    "lon": 80.9462
+  },
+  {
+    "code": "COK",
+    "name": "Kochi",
+    "lat": 9.9312,
+    "lon": 76.2673
+  },
+  {
+    "code": "TRV",
+    "name": "Thiruvananthapuram",
+    "lat": 8.5241,
+    "lon": 76.9366
+  },
+  {
+    "code": "BHO",
+    "name": "Bhopal",
+    "lat": 23.2599,
+    "lon": 77.4126
+  },
+  {
+    "code": "PAT",
+    "name": "Patna",
+    "lat": 25.5941,
+    "lon": 85.1376
+  },
+  {
+    "code": "NAG",
+    "name": "Nagpur",
+    "lat": 21.1458,
+    "lon": 79.0882
+  }
+]
